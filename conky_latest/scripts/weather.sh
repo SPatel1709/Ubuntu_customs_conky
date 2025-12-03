@@ -8,7 +8,7 @@
 city_id=1279233
 
 # replace with yours
-api_key=e2daf22132e064c688ac7518bcf2b1fa
+api_key=USE_OPEN_WEATHER_API_IT_IS_FREE
 
 # choose between metric for Celcius or imperial for fahrenheit
 unit=metric
