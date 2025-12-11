@@ -7,7 +7,7 @@ local boxes = {
     {
         x = 14,
         y = 340,
-        width = 375,
+        width = 420,
         height = 170,
         radius = 15,
         bg_color = {0.10, 0.12, 0.14, 0.70},
